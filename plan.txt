@@ -1,0 +1,27 @@
+Main page = search engine named Blongus
+blongus.com
+
+The only non ai generated page. 
+
+Search queries generate a bunch of results using LLM. 
+
+When going to a search result, the generated description is used. 
+
+---
+
+When visiting a url:
+
+1. Generate a description of what the site  would feature, based on the url
+2. Generate the styles
+3. Generate the HTML
+
+When navigating on the same website:
+
+1. Keep track of description and style, for consistency 
+2. Send those to the LLM when generating a new page
+
+In the generated website:
+
+1. Replace all links with spans with onclick events that keep the user in the app
+
+Make sure to have a disclaimer page 
