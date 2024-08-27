@@ -1,2 +1,2 @@
 # Infininet
-Reject Web2 and Web3. Embrace Web∞
+Reject Web2 and Web3. Embrace Webₒₒ
